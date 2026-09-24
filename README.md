@@ -1,6 +1,6 @@
 # BTC Trading Strategy Backtest
 
-## Business Question
+## Hypothesis
 Would a simple moving-average-based strategy have protected capital better
 than just buying and holding BTC over the past year?
 
